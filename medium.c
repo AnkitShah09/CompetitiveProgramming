@@ -1,3 +1,4 @@
+//This program finds the all posible apperance of Sub string in Super String.
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
