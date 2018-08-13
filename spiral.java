@@ -1,3 +1,4 @@
+//This program prints spiral Matrix.
 import java.util.*;
 class spiral
 {
